@@ -15,4 +15,9 @@
       <CopyToPublishDirectory>Never</CopyToPublishDirectory>
     </None>
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Functions\" />
+    <Folder Include="Functions\HttpTrigers\" />
+    <Folder Include="Functions\Models\" />
+  </ItemGroup>
 </Project>
