@@ -98,5 +98,6 @@
     <Folder Include="Functions\" />
     <Folder Include="Functions\HttpTriggers\" />
     <Folder Include="Functions\Models\" />
+    <Folder Include="Services\" />
   </ItemGroup>
 </Project>
